@@ -47,11 +47,11 @@ Any questions or inquiries about the inner workings of the project can be direct
 5) Run the executable to start the program.
 
 ## Learning Outcomes
-Through this project, I:  
+Through this project, We:  
 - Implemented various **data structures** like linked lists, binary search trees, AVL trees, and B-trees for real-world use cases.  
 - Analyzed and compared the **performance** of these data structures, focusing on **execution time** for operations like search, delete, and list all records.  
 - Gained hands-on experience with real-world data and applied theoretical knowledge of data structures to practical scenarios.  
 - Enhanced my ability to choose the most appropriate data structure based on both **performance** and **complexity** requirements.
 
 ## Acknowledgments
-- I would like to thank my **professor and classmates** at the **Technological Institute of Costa Rica (TEC)** for their guidance and feedback throughout the development of this project.
+- We would like to thank my **professor and classmates** at the **Technological Institute of Costa Rica (TEC)** for their guidance and feedback throughout the development of this project.
